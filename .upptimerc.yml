@@ -24,7 +24,7 @@ status-website:
       href: https://rivodani.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: "footer p { display: none }"
+  css: "footer p { display: none; }, body { height: 100vh; padding: 0; }"
 
 workflowSchedule:
   uptime: "3-58/5 * * * *"
