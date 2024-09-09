@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo.png
   name: RivoDani.com Status
   theme: night
-  icon: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo-1-192x192.png
+  icon: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo-1-32x32.png
   introTitle: "Esta é página de status de **RivoDani.com**."
   introMessage: Nesta página encontram-se os estados dos nossos serviços. Caso exista algum problema é nesta página que será mostrado.
   navbar:
@@ -24,6 +24,6 @@ status-website:
       href: https://rivodani.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  css: "footer p { visibility: collapse }"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
