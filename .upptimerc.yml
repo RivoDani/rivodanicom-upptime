@@ -54,7 +54,7 @@ i18n:
   ms: ms
   loading: A Carregar
   navGitHub: GitHub
-  footer: 
+  footer: " "
   rateLimitExceededTitle: Limite de taxa excedido
   rateLimitExceededIntro: Tu excedeste o número de pedidos que pode fazer em uma hora, então vais ter que esperar antes de aceder a este website outra vez. Alternativamente, podes adicionar um Token de Acesso Pessoal do GitHub para continuar a usar este website.
   rateLimitExceededWhatDoesErrorMean: O que isto significa?
