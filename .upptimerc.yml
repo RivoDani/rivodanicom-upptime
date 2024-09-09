@@ -25,6 +25,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   css: "footer p { display: none }"
+
+workflowSchedule:
+  uptime: "3-58/5 * * * *"
+  
 i18n:
   activeIncidents: Incidentes Ativos
   allSystemsOperational: Todos os Sistemas estão operacionais
