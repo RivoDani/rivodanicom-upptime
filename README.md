@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.rivodani.com): <!--live status--> **Todos os Sistemas estão operacionais**
+# [Estado ao Vivo](https://status.rivodani.com): <!--live status--> **Todos os Sistemas estão operacionais**
 
 Este repositório contém o monitor de tempo de atividade open-source e a página de estado para [RivoDani](https://www.youtube.com/channel/UCYplAMEiKZdDeomo-eFx7KA).
 
