@@ -89,12 +89,8 @@ i18n:
   locale: pt-PT
   
   url: "URL"
-  status: "Estado"
   history: "Histórico"
   uptime: "Tempo Ativo"
-  up: "🟩 Ativo"
-  degraded: "🟨 Degradado"
-  down: "🟥 Em Baixo"
   responseTimeGraphAlt: "Gráfico de Tempo de Resposta"
   ms: "ms"
   responseTime: "Tempo de Resposta"
