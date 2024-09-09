@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo.png
   name: RivoDani.com Status
   theme: night
-  
+  icon: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo-1-192x192.png
   introTitle: "Esta é página de status de **RivoDani.com**."
   introMessage: Nesta página encontram-se os estados dos nossos serviços. Caso exista algum problema é nesta página que será mostrado.
   navbar:
