@@ -25,5 +25,97 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   css: "footer p { display: none }"
+i18n:
+  activeIncidents: Incidentes Ativos
+  allSystemsOperational: Todos os Sistemas estão operacionais
+  incidentReport: "Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS posts
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detailhes do Incidente 
+  incidentFixed: Reparado
+  incidentOngoing: Em Curso
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentViewOnGitHub: Ver e Subscrever no GitHub
+  incidentCommentSummary: Postado em $DATE por $AUTHOR
+  incidentBack: ← Voltar a Todos os Incidentes
+  pastIncidents: Incidentes passados
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS posts
+  liveStatus: Estado ao Vivo
+  overallUptime: "Tempo ativo em geral: $UPTIME"
+  overallUptimeTitle: Tempo ativo em geral
+  averageResponseTime: "Tempo de resposta médio: $TIMEms"
+  averageResponseTimeTitle: Resposta médio
+  sevelDayResponseTime: Tempo de resposta de 7 dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: Ativo
+  down: Em Baixo
+  degraded: Degradado
+  ms: ms
+  loading: A Carregar
+  navGitHub: GitHub
+  footer: 
+  rateLimitExceededTitle: Limite de taxa excedido
+  rateLimitExceededIntro: Tu excedeste o número de pedidos que pode fazer em uma hora, então vais ter que esperar antes de aceder a este website outra vez. Alternativamente, podes adicionar um Token de Acesso Pessoal do GitHub para continuar a usar este website.
+  rateLimitExceededWhatDoesErrorMean: O que isto significa?
+  rateLimitExceededErrorMeaning: Este website usa a API do GitHub para acedar a dados em tempo real sobre os estados dos nossos websites. Por defeito, o GitHub permite a cada endereço de IP 60 pedidos por hora, os quais tu gastaste.
+  rateLimitExceededErrorHowCanFix: Como posso resolver?
+  rateLimitExceededErrorFix: Podes esperar por outra hora e o limite do teu endereço de IP será restaurado. Alternativamente, podes adicionar o teu Token de Acesso Pessoal do GitHub, que te dá mais 5.000 pedidos adicionais por hora.
+  rateLimitExceededGeneratePAT: Aprende como gerar um Token de Acesso Pessoal
+  rateLimitExceededHasSet: Tu tens um Token de Acesso Pessoal definido.
+  rateLimitExceededRemoveToken: Remover Token
+  rateLimitExceededGitHubPAT: Token de Acesso Pessoal GitHub
+  rateLimitExceededCopyPastePAT: Copia e Cola o teu Token
+  rateLimitExceededSaveToken: Guardar Token
+  errorTitle: Um erro ocorreu
+  errorIntro: Um erro ocorreu ao tentar obter os detalhes de estado mais recentes.
+  errorText: Podes tentar outra vez em alguns momentos.
+  errorHome: Ir para a página principal
+  pastScheduledMaintenance: Manutenções Agendadas Passadas
+  scheduledMaintenance: Manutenção Agendada
+  scheduledMaintenanceSummaryStarted: Começou em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE por $DURATION minutos
+  startedAt: Começou em
+  startsAt: Começa em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Completo
+  incidentScheduled: Agendado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: Todos
+  locale: pt-PT
+  
+  url: "URL"
+  status: "Estado"
+  history: "Histórico"
+  uptime: "Tempo Ativo"
+  up: "🟩 Ativo"
+  degraded: "🟨 Degradado"
+  down: "🟥 Em Baixo"
+  responseTimeGraphAlt: "Gráfico de Tempo de Resposta"
+  ms: "ms"
+  responseTime: "Tempo de Resposta"
+  responseTimeDay: "Tempo de Resposta de 24 horas"
+  responseTimeWeek: "Tempo de Resposta de 7 dias"
+  responseTimeMonth: "Tempo de Resposta de 30 dias"
+  responseTimeYear: "Tempo de Resposta de 1 ano"
+  uptime: "Tempo Ativo de Sempre"
+  uptimeDay: "Tempo Ativo de 24 horas"
+  uptimeWeek: "Tempo Ativo de 7 dias"
+  uptimeMonth: "Tempo Ativo de 30 dias"
+  uptimeYear: "Tempo Ativo de 1 ano"
+  liveStatus: "Estado ao Vivo"
+  liveStatusHtmlComment: "<!--Estado ao Vivo-->"
+  allSystemsOperational: "🟩 Todos os sistemas operacionais"
+  degradedPerformance: "🟨 Performance degradada"
+  completeOutage: "🟥 Falha completa"
+  partialOutage: "🟧 Falha parcial"
+
+
+
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
