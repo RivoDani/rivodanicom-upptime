@@ -4,7 +4,7 @@
     "url": "https://rivodani.com",
     "icon": "https://icons.duckduckgo.com/ip3/rivodani.com.ico",
     "slug": "rivo-dani-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 2833,
     "timeYear": 2313,
     "dailyMinutesDown": {
+      "2024-11-04": 0,
       "2024-10-28": 22,
       "2024-10-26": 20,
       "2024-10-16": 25
