@@ -4,19 +4,19 @@
     "url": "https://rivodani.com",
     "icon": "https://icons.duckduckgo.com/ip3/rivodani.com.ico",
     "slug": "rivo-dani-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "73.31%",
-    "uptimeWeek": "64.97%",
-    "uptimeMonth": "91.64%",
+    "uptimeDay": "71.61%",
+    "uptimeWeek": "64.73%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "98.65%",
-    "time": 2269,
-    "timeDay": 2297,
-    "timeWeek": 2620,
-    "timeMonth": 2613,
-    "timeYear": 2269,
+    "time": 2267,
+    "timeDay": 2248,
+    "timeWeek": 2609,
+    "timeMonth": 2604,
+    "timeYear": 2267,
     "dailyMinutesDown": {
-      "2025-07-11": 151,
+      "2025-07-11": 176,
       "2025-07-10": 409,
       "2025-07-09": 422,
       "2025-07-08": 515,
@@ -41,8 +41,7 @@
       "2025-02-18": 24,
       "2025-02-09": 16,
       "2025-02-08": 23,
-      "2025-01-29": 21,
-      "2025-01-28": 18
+      "2025-01-29": 21
     }
   }
 ]
