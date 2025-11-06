@@ -6,17 +6,16 @@
     "slug": "rivo-dani-com",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.22%",
-    "time": 2344,
-    "timeDay": 2245,
-    "timeWeek": 1950,
-    "timeMonth": 2367,
-    "timeYear": 2349,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.21%",
+    "time": 2343,
+    "timeDay": 2019,
+    "timeWeek": 1949,
+    "timeMonth": 2356,
+    "timeYear": 2347,
     "dailyMinutesDown": {
-      "2025-11-05": 11,
       "2025-09-23": 26,
       "2025-08-08": 17,
       "2025-08-04": 24,
@@ -30,7 +29,7 @@
       "2025-07-09": 422,
       "2025-07-08": 515,
       "2025-07-07": 526,
-      "2025-07-06": 247
+      "2025-07-06": 301
     }
   }
 ]
