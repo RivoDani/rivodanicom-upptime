@@ -11,10 +11,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rivodani.com
   # baseUrl: /your-repo-name
-  logoUrl: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo.png
+  logoUrl: https://www.rivodani.com/wp-content/uploads/2025/11/Logo.png
   name: RivoDani.com Status
   theme: night
-  favicon: https://www.rivodani.com/wp-content/uploads/2023/02/cropped-Logo-1-32x32.png
+  favicon: https://www.rivodani.com/wp-content/uploads/2025/11/Icon.png
   introTitle: "Esta é página de status de **RivoDani.com**."
   introMessage: Nesta página encontram-se os estados dos nossos serviços. Caso exista algum problema é nesta página que será mostrado.
   navbar:
