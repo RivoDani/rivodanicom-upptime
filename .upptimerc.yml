@@ -27,7 +27,7 @@ status-website:
   css: "footer p { display: none; }, body { height: 100vh; padding: 0; }"
 
 workflowSchedule:
-  uptime: "3-58/5 * * * *"
+  uptime: "*/5 * * * *"
   
 i18n:
   activeIncidents: Incidentes Ativos
